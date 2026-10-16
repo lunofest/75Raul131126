@@ -1,9 +1,9 @@
-const CACHE_NAME = 'cache-v3'; // Use a static or manually managed version
+const CACHE_NAME = 'cache-v5'; // Use a static or manually managed version
 const RESOURCES_TO_PRECACHE = [
-    'estilos/normalize.css?v3',
-    'estilos/styles.css?v3',
-    'estilos/mediaQueries.css?v3',
-    'javascript/script.js?v3',
+    'estilos/normalize.css?v5',
+    'estilos/styles.css?v5',
+    'estilos/mediaQueries.css?v5',
+    'javascript/script.js?v5',
     // Add more resources here if needed
 ];
 
