@@ -231,7 +231,7 @@ header {
     position: relative;
 
     background-image: url(../assets/imagenes/fondo.webp);
-    background-position: center;
+    background-position: top;
     background-size: cover;
     overflow: hidden;
     mask-image: linear-gradient(black 80%, transparent);
